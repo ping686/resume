@@ -1,5 +1,10 @@
 body {
     background: #F1E5D1;
     margin: 0 20%;
-    
+    border: 1px solid;
+    margin-top: 50px;
+}
+#main {
+  
+    padding: 0px 50px;
 }
